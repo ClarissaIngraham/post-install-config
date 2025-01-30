@@ -50,6 +50,16 @@ From the Agents tab > Teams and in the name section we will type in "Online Bank
 
 ![image](https://github.com/user-attachments/assets/66bae88b-5728-497a-bfae-22fc3922ed81)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now it's time to create Agents. Agents are the ones that are given access to the help desk with the intent to respond and resolve the tickets. Agents are assgined to a primary department and given a role for the tickets/tasks routed to that department.
+
+To create and congfigure a new agent within osTicket, we will first go to the admin panel page from there Agents > Add New. On this page we will fill out all the necessary information for the agent and also navigate to the tabs as follows and configure them as well which are, access, permissions, and teams.
+
 </p>
-<br />
+
+![image](https://github.com/user-attachments/assets/754fb5e6-9c4b-4946-adaf-973647ae7998)
+
+Next we will create a user in osTicket. Users are the ticket owners of the tickets in the help desk. The user is associated with their email address. To create a user go to Agent Panel > Users > Add New.
+
+</p>
+
+![image](https://github.com/user-attachments/assets/8d499319-f7cf-42ad-a16c-10863b7cb509)
