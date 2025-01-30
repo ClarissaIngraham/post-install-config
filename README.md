@@ -67,3 +67,7 @@ Next we will create a user in osTicket. Users are the ticket owners of the ticke
 We will now create an SLA Plan(Service Level Agreement). The purpose of an SLA plan is to provide a length of time in which the help desk is expected to take a ticket solve it and  close it.
 
 To create an SLA follow these steps, navigate to admin panel > Manage > SLA. Then we will click on "Add New SLA Plan". We will then fill out all the necessary information on that page. Below I have an example of an SLA, where the name is Sev-B, the grace period is 4 hours, and the schedule is 24/7.
+
+</p>
+
+![image](https://github.com/user-attachments/assets/262681b5-aaee-4733-a654-ceec7bdce1db)
